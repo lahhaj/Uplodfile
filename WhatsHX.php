@@ -1,14 +1,7 @@
 <?php
 
-#Author  : KHS1N CYBER 07
-#Support : Bartes Dwiky
-
-#ini hanya script mentahan pertama
-#kalian bisa pelajari dahulu secara manual
-#yaitu kalian daftar member api whatsapp
-#otomatis kode token atau Link api chat dapat
-#kenapa script ini berbayar? karena bayar untuk membeli member mingguan Api-chat-Whatsapp/kalian gratis melakukan api chat selama 7 hari
-#Jangan kalian kira untung cuma di kita
+#Author  : Lukman Nurul Hakim
+#Support : Lukman
 
 
 $my_apikey = "kode Token"; 
